@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import algoDraw from "../../../../assets/algoDraw.webp";
+import algoDraw from "../../../../assets/AlgoDraw.webp";
 import wordle from "../../../../assets/wordle.webp";
 import portal from "../../../../assets/portal.png";
 import bin from "../../../../assets/bin.png";
